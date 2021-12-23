@@ -7,7 +7,7 @@ HTML, CSS, JavaScript, Git & GitHub, Bash (even though I use Windows lol).
 ## **💥 Your best work?**
 I love all of my work tbh; but the ones that I most like are the ones in my GitHub profile pins!
 ## **📫 How can I reach you?**
-Via my email or LinkedIn which you can find by visiting my Linktree page!
+Via my [email](mailto:devmoinhu@gmail.com) or [LinkedIn](https://www.linkedin.com/in/devmotheg/).
 
 <!---
 devmotheg/devmotheg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
