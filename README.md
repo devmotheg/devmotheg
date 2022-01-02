@@ -9,14 +9,14 @@ I'm Mohamed Muntasir, a self taught developer, aiming to be a full-stack develop
 ## **⭐ Your skills?**
 
 - Front-end:
- - HTML.
- - CSS.
- - JavaScript.
+  - HTML.
+  - CSS.
+  - JavaScript.
 - Tools:
- - Visual Studio Code.
- - Vim.
- - Git.
- - GitHub.
+  - Visual Studio Code.
+  - Vim.
+  - Git.
+  - GitHub.
 
 ## **💥 Your best work?**
 
