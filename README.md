@@ -23,13 +23,16 @@ I'm Mohamed Muntasir, a self taught developer, aiming to be a full-stack develop
   - Mongoose.
   - Pug.
 - Tools:
-  - Webpack.
-  - Postman.
-  - Heroku.
-  - Visual Studio Code.
-  - Vim.
   - Git.
   - GitHub.
+  - Heroku.
+  - Postman
+  - Webpack.
+  - VS Code.
+  - Vim.
+- Other:
+  - API.
+  - RESTful API.
 
 ## **💥 Your best work?**
 
