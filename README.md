@@ -12,7 +12,20 @@ I'm Mohamed Muntasir, a self taught developer, aiming to be a full-stack develop
   - HTML.
   - CSS.
   - JavaScript.
+  - AJAX.
+  - SASS.
+  - TypeScript.
+- Back-end:
+  - NPM.
+  - Node.
+  - Express.
+  - MongoDB.
+  - Mongoose.
+  - Pug.
 - Tools:
+  - Webpack.
+  - Postman.
+  - Heroku.
   - Visual Studio Code.
   - Vim.
   - Git.
