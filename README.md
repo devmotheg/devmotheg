@@ -16,6 +16,7 @@ I'm Mohamed Muntasir, a self taught developer, aiming to be a full-stack develop
   - SASS.
   - TypeScript.
   - Tailwind.
+  - React.
 - Back-end:
   - NPM.
   - Node.
