@@ -28,8 +28,8 @@ I'm Mohamed Muntasir, a self taught developer, aiming to be a full-stack develop
   - Git.
   - GitHub.
   - Heroku.
-  - Postman
   - Webpack.
+  - Postman
   - VS Code.
   - Vim.
 - Other:
