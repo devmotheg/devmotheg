@@ -20,13 +20,13 @@ I'm Mohamed Muntasir, a self taught developer, aiming to be a full-stack develop
 - API:
   - RESTful API.
 - Back-end:
-  - NPM.
   - Node.
   - Express.
   - MongoDB.
   - Mongoose.
   - Pug.
 - Tools:
+  - NPM.
   - Git.
   - GitHub.
   - Heroku.
