@@ -17,6 +17,7 @@ I'm Mohamed Muntasir, a self taught developer, aiming to be a full-stack develop
   - TypeScript.
   - Tailwind.
   - React.
+  - Next.
 - API:
   - RESTful API.
 - Back-end:
