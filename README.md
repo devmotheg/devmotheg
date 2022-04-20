@@ -4,7 +4,7 @@ Welcome to my GitHub profile, have a pleasant stay!
 
 ## **❓ Who are you?**
 
-I'm Mohamed Muntasir, a self taught developer, aiming to be a full-stack developer & a grandmaster in codeforces. The reason I code is because I'm really passionate about coding, in fact I used to code some Roblox games here & there back in the day when I was a kid.
+I'm Mohamed Muntasir, a self taught developer, aiming to be a full-stack developer. The reason I code is because I'm really passionate about coding, in fact I used to code some Roblox games here & there back in the day when I was a kid.
 
 ## **⭐ Your skills?**
 
