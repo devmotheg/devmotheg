@@ -4,7 +4,7 @@ Welcome to my GitHub profile, have a pleasant stay!
 
 ## **❓ Who are you?**
 
-I'm Mohamed Muntasir, a self taught full-stack developer & a freelancer; available for work.
+I'm Mohamed Muntasir, a self-taught full stack web developer & a freelancer; available for work.
 
 ## **⭐ Your skills?**
 
