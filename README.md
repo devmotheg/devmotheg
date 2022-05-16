@@ -8,6 +8,8 @@ I'm Mohamed Muntasir, a self-taught full stack web developer & a freelancer; ava
 
 ## **⭐ Your skills?**
 
+- Full-stack:
+  - Next.
 - Front-end:
   - HTML.
   - CSS.
@@ -17,7 +19,6 @@ I'm Mohamed Muntasir, a self-taught full stack web developer & a freelancer; ava
   - TypeScript.
   - Tailwind.
   - React.
-  - Next.
 - API:
   - RESTful API.
 - Back-end:
@@ -35,6 +36,8 @@ I'm Mohamed Muntasir, a self-taught full stack web developer & a freelancer; ava
   - Postman
   - VS Code.
   - Vim.
+- Other:
+  - C++.
 
 ## **💥 Your best work?**
 
