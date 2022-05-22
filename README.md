@@ -6,42 +6,9 @@ Welcome to my GitHub profile, have a pleasant stay!
 
 I'm Mohamed Muntasir, a self-taught full stack web developer & a freelancer; available for work.
 
-## **⭐ Your skills?**
+## **🔥 Your skills & best work?**
 
-- Full-stack:
-  - Next.
-- Front-end:
-  - HTML.
-  - CSS.
-  - JavaScript.
-  - AJAX.
-  - SASS.
-  - TypeScript.
-  - Tailwind.
-  - React.
-- API:
-  - RESTful API.
-- Back-end:
-  - Node.
-  - Express.
-  - MongoDB.
-  - Mongoose.
-  - Pug.
-- Tools:
-  - NPM.
-  - Git.
-  - GitHub.
-  - Heroku.
-  - Webpack.
-  - Postman
-  - VS Code.
-  - Vim.
-- Other:
-  - C++.
-
-## **💥 Your best work?**
-
-I love all of my work tbh; but the ones that I most like are the ones in my GitHub profile pins!
+You can see all of that & more in my [portfolio website](https://mohamedmuntasir.vercel.app/)!
 
 ## **📫 How can I reach you?**
 
