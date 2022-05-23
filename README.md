@@ -12,7 +12,7 @@ You can see all of that & more in my [portfolio website](https://mohamedmuntasir
 
 ## **📫 How can I reach you?**
 
-Via my [email](mailto:devmoinhu@gmail.com) or [LinkedIn](https://www.linkedin.com/in/devmotheg/).
+Via [email](mailto:devmoinhu@gmail.com) or [LinkedIn](https://www.linkedin.com/in/devmotheg/).
 
 <!---
 devmotheg/devmotheg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
