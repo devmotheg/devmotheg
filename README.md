@@ -8,7 +8,7 @@ I'm Mohamed Muntasir, a self-taught full stack web developer & a freelancer; ava
 
 ## **🔥 Your skills & best work?**
 
-You can see all of that & more in my [portfolio website](https://mohamedmuntasir.vercel.app/)!
+You can see all of that & more in my repositories.
 
 ## **📫 How can I reach you?**
 
